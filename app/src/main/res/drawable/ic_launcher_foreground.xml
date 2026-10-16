@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Колба лампи -->
+    <path
+        android:fillColor="#FFFFEB3B"
+        android:pathData="M54,26 C42,26 33,35 33,46 C33,53 36.5,58.5 41,62 C43,63.6 44,65.5 44,68 L44,70 L64,70 L64,68 C64,65.5 65,63.6 67,62 C71.5,58.5 75,53 75,46 C75,35 66,26 54,26 Z" />
+    <!-- Цоколь -->
+    <path
+        android:fillColor="#FF9E9E9E"
+        android:pathData="M44,73 L64,73 L64,77 L44,77 Z" />
+    <path
+        android:fillColor="#FF757575"
+        android:pathData="M47,79 L61,79 L61,83 L47,83 Z" />
+</vector>
